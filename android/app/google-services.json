@@ -1,33 +1,13 @@
 {
   "project_info": {
-    "project_number": "639396291897",
-    "firebase_url": "https://ecommece-b4422.firebaseio.com",
-    "project_id": "ecommece-b4422",
-    "storage_bucket": "ecommece-b4422.appspot.com"
+    "project_number": "826595152760",
+    "project_id": "united-sandbox-416019",
+    "storage_bucket": "united-sandbox-416019.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:639396291897:android:83d80246e4fcc5659a74e8",
-        "android_client_info": {
-          "package_name": "com.example.cafe"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDo7Xj-YZqV0zJpZlB5phHiwWvN8aIjYFE"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:639396291897:android:a2f26fd64da067139a74e8",
+        "mobilesdk_app_id": "1:826595152760:android:2ac29f21aac7729e8bae8d",
         "android_client_info": {
           "package_name": "com.example.cafee"
         }
@@ -35,26 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDo7Xj-YZqV0zJpZlB5phHiwWvN8aIjYFE"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:639396291897:android:180ac3b0314db23c9a74e8",
-        "android_client_info": {
-          "package_name": "com.example.ecommerce"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDo7Xj-YZqV0zJpZlB5phHiwWvN8aIjYFE"
+          "current_key": "AIzaSyBcqvvNyKG0h4Vnt8bfceksWORyz6WZcLs"
         }
       ],
       "services": {

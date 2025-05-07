@@ -41,53 +41,47 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAiA5rXhFeD5kr51xWQ3px93EXPD1eyJgc',
-    appId: '1:639396291897:web:3063388f1e0d3e999a74e8',
-    messagingSenderId: '639396291897',
-    projectId: 'ecommece-b4422',
-    authDomain: 'ecommece-b4422.firebaseapp.com',
-    databaseURL: 'https://ecommece-b4422.firebaseio.com',
-    storageBucket: 'ecommece-b4422.appspot.com',
-    measurementId: 'G-NQNXPVWFN5',
+    apiKey: 'AIzaSyC0Vx5CldVIT0kw_SxyUhHtTaeI70czY-g',
+    appId: '1:826595152760:web:b1aeb20158de93a48bae8d',
+    messagingSenderId: '826595152760',
+    projectId: 'united-sandbox-416019',
+    authDomain: 'united-sandbox-416019.firebaseapp.com',
+    storageBucket: 'united-sandbox-416019.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDo7Xj-YZqV0zJpZlB5phHiwWvN8aIjYFE',
-    appId: '1:639396291897:android:a2f26fd64da067139a74e8',
-    messagingSenderId: '639396291897',
-    projectId: 'ecommece-b4422',
-    databaseURL: 'https://ecommece-b4422.firebaseio.com',
-    storageBucket: 'ecommece-b4422.appspot.com',
+    apiKey: 'AIzaSyBcqvvNyKG0h4Vnt8bfceksWORyz6WZcLs',
+    appId: '1:826595152760:android:2ac29f21aac7729e8bae8d',
+    messagingSenderId: '826595152760',
+    projectId: 'united-sandbox-416019',
+    storageBucket: 'united-sandbox-416019.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAqIoPcMBlnjYFpY7wNd9fCzq0d5q8FyHs',
-    appId: '1:639396291897:ios:e54531febebefd849a74e8',
-    messagingSenderId: '639396291897',
-    projectId: 'ecommece-b4422',
-    databaseURL: 'https://ecommece-b4422.firebaseio.com',
-    storageBucket: 'ecommece-b4422.appspot.com',
+    apiKey: 'AIzaSyBjV-x8Eq7p_rkIp7Q4gbu3oS8LtSAciBI',
+    appId: '1:826595152760:ios:a979fb3f6a213b598bae8d',
+    messagingSenderId: '826595152760',
+    projectId: 'united-sandbox-416019',
+    storageBucket: 'united-sandbox-416019.firebasestorage.app',
     iosBundleId: 'com.example.cafee',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAqIoPcMBlnjYFpY7wNd9fCzq0d5q8FyHs',
-    appId: '1:639396291897:ios:e54531febebefd849a74e8',
-    messagingSenderId: '639396291897',
-    projectId: 'ecommece-b4422',
-    databaseURL: 'https://ecommece-b4422.firebaseio.com',
-    storageBucket: 'ecommece-b4422.appspot.com',
+    apiKey: 'AIzaSyBjV-x8Eq7p_rkIp7Q4gbu3oS8LtSAciBI',
+    appId: '1:826595152760:ios:a979fb3f6a213b598bae8d',
+    messagingSenderId: '826595152760',
+    projectId: 'united-sandbox-416019',
+    storageBucket: 'united-sandbox-416019.firebasestorage.app',
     iosBundleId: 'com.example.cafee',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAiA5rXhFeD5kr51xWQ3px93EXPD1eyJgc',
-    appId: '1:639396291897:web:b8e930f587cbc4129a74e8',
-    messagingSenderId: '639396291897',
-    projectId: 'ecommece-b4422',
-    authDomain: 'ecommece-b4422.firebaseapp.com',
-    databaseURL: 'https://ecommece-b4422.firebaseio.com',
-    storageBucket: 'ecommece-b4422.appspot.com',
-    measurementId: 'G-9K1NN3FVSZ',
+    apiKey: 'AIzaSyC0Vx5CldVIT0kw_SxyUhHtTaeI70czY-g',
+    appId: '1:826595152760:web:38144130da5600238bae8d',
+    messagingSenderId: '826595152760',
+    projectId: 'united-sandbox-416019',
+    authDomain: 'united-sandbox-416019.firebaseapp.com',
+    storageBucket: 'united-sandbox-416019.firebasestorage.app',
   );
+
 }
